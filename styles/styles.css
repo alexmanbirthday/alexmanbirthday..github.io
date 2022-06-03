@@ -13,3 +13,31 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+@media screen and (max-width: 1200px){
+  .phone-2 {
+    left: 0
+  }
+  .phone {
+    right: 0;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  .phone-2 {
+    position: relative;
+    margin: 0 auto;
+  }
+  .phone {
+    position: relative;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 720px){
+  .phone-2 {
+    position: relative;
+    margin: 0 auto;
+    display: none;
+  }
+}
