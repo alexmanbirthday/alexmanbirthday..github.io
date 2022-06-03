@@ -1,0 +1,19 @@
+{
+  "name": "alexmanbirthday.github.io",
+  "version": "1.0.0",
+  "description": "Happy birthday to Sanya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmanbirthday/alexmanbirthday.github.io.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmanbirthday/alexmanbirthday.github.io/issues"
+  },
+  "homepage": "https://github.com/alexmanbirthday/alexmanbirthday.github.io#readme"
+}
