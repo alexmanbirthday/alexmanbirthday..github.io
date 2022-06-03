@@ -1,0 +1,15 @@
+.top {
+  background-color: #f5c1b3;
+}
+
+.phone {
+  background: url('../img/luntic.png') 0% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.phone-2 {
+  background: url('../img/luntic.png') 0% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
