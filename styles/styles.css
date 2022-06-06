@@ -2,6 +2,22 @@
   background-color: #f5c1b3;
 }
 
+.bg-velvet {
+  background-color: #f5c1b3;
+}
+
+.bg-blue {
+  background: #b3e7f5;
+}
+
+.bg-blue-velvet-gradient {
+  background: linear-gradient(#b3e7f5, #f5c1b3);
+}
+
+.test {
+  background: linear-gradient(#212529, #b3e7f5);
+}
+
 .phone {
   background: url('../img/luntic.png') 0% 50%;
   background-size: contain;
@@ -64,6 +80,8 @@
 
   .img-wrap {
     height: 300px;
+    border-radius: 16px;
+    width: 100%;
   }
 }
 
