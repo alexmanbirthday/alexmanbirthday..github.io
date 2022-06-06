@@ -51,6 +51,16 @@
   object-position: center top;
 }
 
+.congrat {
+  margin-top: 60px;
+}
+
+.congrats-img {
+  width: 100%;
+  max-width: 850px;
+  margin-bottom: 20px;
+}
+
 @media screen and (max-width: 1200px){
   .phone-2 {
     left: 0
